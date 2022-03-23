@@ -1,0 +1,5 @@
+sms:
+  huawei:
+    url: https://rtcsms.cn-north-1.myhuaweicloud.com:10743/sms/batchSendSms/v1
+    appKey:
+    appSecret:
